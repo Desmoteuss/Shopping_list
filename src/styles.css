@@ -1,0 +1,10 @@
+body {
+  font-family: sans-serif;
+  background-color: red;
+}
+.button{
+  display: inline;
+}
+.done {
+  text-decoration: line-through;
+}
